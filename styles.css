@@ -1,0 +1,12 @@
+
+.card-img-top {
+    width: 100%;
+    height: 18vw;
+    object-fit: cover;
+}
+
+.big-banner{
+    background-image: url("./assets/img/mathieu-olivares-Yr62D9Yy4sU-unsplash.jpg");
+    height: 900px;
+    background-size: cover;
+}
